@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "puppeteer": "^24.0.0",
+    "puppeteer-core": "^24.0.0"
+  },
+  "name": "puppeteer-core",
+  "version": "1.0.0",
+  "main": "penzu-export.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
